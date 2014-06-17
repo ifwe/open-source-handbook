@@ -74,11 +74,11 @@ This document will clarify the process and show you exactly what you need to do 
 
 We realize that this is a long document and that, really, all you want to do is just get your code released and then get back to making great stuff which enables meaningful connections between people. Honest, we get that and we love it about you.
 
-So we've summed up the entire process in a couple of itemized lists. There are still a lot of steps here, but these lists should make it easier for you to dot all your i's and cross all your t's without spending too much time slogging through documentation.
+So we've summed up the entire process in a single itemized list. There are still a lot of steps here, but this list should make it easier for you to dot all your i's and cross all your t's without spending too much time slogging through documentation.
 
 That said, we strongly suggest you read this entire document at least once. Afterward you'll understand not only what to do to open source your project, you'll also understand **why**.
 
-Keep in mind: The items on the lists below are **not** optional. Please make sure that each step is complete. Don't skip any for any reason. They are all necessary to make sure your project is properly open sourced.
+Keep in mind: The items on the list below are **not** optional. Please make sure that each step is complete. Don't skip any for any reason. They are all necessary to make sure your project is properly open sourced.
 
 To make it easier to open source your project, we've collected some template files together in the [Starter Box](./starter_box) directory. You can simply copy the necessary files/text from there.
 
