@@ -7,16 +7,16 @@ While this document is written for Tagged team members, it is licensed under the
 ## Table of Contents
 
 * [Introduction](#introduction)
-* TL;DR
-* Legal Stuff
-   * Copyright
-   * License
-   * Applying the License & Copyright
-   * Contributor License Agreement
-   * Sanitizing the project
-   * The NOTICES file
-   * Terms of Service
-   * Privacy Statement
+* [TL;DR](#tldr)
+* [Legal Stuff](./Legal.md)
+   * [Copyright](./Legal.md#copyright)
+   * [License](./Legal.md#license)
+   * [Applying the License & Copyright](./Legal.md#applying-the-licenses--copyright-to-your-project)
+   * [Contributor License Agreement](./Legal.md#contributor-license-agreement)
+   * [Sanitizing the project](./Legal.md#sanititizing-the-project)
+   * [The NOTICES file](./Legal.md#the-notices-file)
+   * [Terms of Service](./Legal.md#terms-of-service)
+   * [Privacy Statement](./Legal.md#privacy-statement)
 * Contributing
    * How to Contribute (aka The CONTRIBUTING file)
    * Submitting code

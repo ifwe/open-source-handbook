@@ -2,15 +2,15 @@
 
 ## Table of Contents
 
-* Introduction
-* Copyright
-* Licenses
-* Applying the Licenses & Copyright
-* Contributor License Agreement
-* Sanitizing your project
-* The NOTICES file
-* Terms of Service
-* Privacy Statement
+* [Introduction](#introduction)
+* [Copyright](#copyright)
+* [Licenses](#licenses)
+* [Applying the Licenses & Copyright](#applying-the-licenses-copyright-to-your-project)
+* [Contributor License Agreement](#contributor-license-agreement)
+* [Sanitizing your project](#sanitizing-your-project)
+* [The NOTICES file](#the-notices-file)
+* [Terms of Service](#terms-of-service)
+* [Privacy Statement](#privacy-statement)
 
 ## Introduction
 
