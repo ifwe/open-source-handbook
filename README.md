@@ -16,7 +16,7 @@ While this document is written for Tagged team members, it is licensed under the
    * [Sanitizing your project](./Legal.md#sanititizing-your-project)
    * [The NOTICES file](./Legal.md#the-notices-file)
    * [Terms of Service](./Legal.md#terms-of-service)
-   * [Privacy Statement](./Legal.md#privacy-statement)
+   * [Privacy Policy](./Legal.md#privacy-policy)
 * Contributing
    * How to Contribute (aka The CONTRIBUTING file)
    * Submitting code

@@ -10,7 +10,7 @@
 * [Sanitizing your project](#sanitizing-your-project)
 * [The NOTICES file](#the-notices-file)
 * [Terms of Service](#terms-of-service)
-* [Privacy Statement](#privacy-statement)
+* [Privacy Policy](#privacy-policy)
 
 ## Introduction
 
@@ -124,7 +124,19 @@ The [Apache Software Foundation](http://apache.org) has a good [example NOTICES]
 
 ## Terms of Service
 
-## Privacy Statement
+If your project is large enough to warrant its own website, you'll need it to link to a Terms of Service document. This doc sets forth the rights and responsibilities of both Tagged and the users with respect to the website.
+
+To add a Terms of Service to your project website, simply copy it to your repository from the [Starter Box](./starter_box/TOS.md) then link to that copy from your website.
+
+If your project does not have its own website (it merely has a GitHub repository), then it is not necessary to copy/link to the Terms of Service document.
+
+## Privacy Policy
+
+If your project is large enough to warrant its own website, you'll need it to link to a Privacy Policy document. This doc sets forth what information Tagged collects in the day-to-day operation of the website.
+
+To add a Privacy Policy to your project website, simply copy it to your repository from the [Starter Box](./starter_box/Privacy_Policy.md) then link to that copy from your website.
+
+If your project does not have its own website (it merely has a GitHub repository), then it is not necessary to copy/link to the Privacy Policy document.
 
 -----
 
