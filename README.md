@@ -6,7 +6,7 @@ While this document is written for Tagged team members, it is licensed under the
 
 ## Table of Contents
 
-* Introduction
+* [Introduction](#Introduction)
 * TL;DR
 * Legal Stuff
    * Copyright
