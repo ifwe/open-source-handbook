@@ -86,20 +86,21 @@ Here are the steps for open sourcing your project:
 
 1. Get approval from your team lead or manager.
 1. Notify Marcom that a new project will be open sourced shortly.
-1. Review the project to make sure it's not divulging any sensitive information (passwords, etc.).
-1. Review the commit history for the project to make sure it's not divulging any sensitive information.
-1. If the project uses any external libraries or code, review their licenses to confirm that they are compatible with the Apache v2.0 License.
+1. [Review the project](./Legal.md#cleaning-up) to make sure it's not divulging any sensitive information (passwords, etc.).
+1. [Review the commit history](./Legal.md#cleaning-up) for the project to make sure it's not divulging any sensitive information.
+1. If the project uses any external libraries or code, [review their licenses](./Legal.md#complying-with-others-copyright-and-licensing) to confirm that they are compatible with the Apache v2.0 License.
 1. Make sure the project contains the following files:
     * README (in either plain text or Markdown format)
-    * LICENSE (containing both the Apache v2.0 and the CC-BY-SA licenses)
+    * [LICENSE](./Legal.md#license) (containing both the Apache v2.0 and the CC-BY-SA licenses)
+    * [NOTICES](./Legal.md#the-notices-file)
     * CONTRIBUTING (in either plain text or Markdown format)
-    * Contributor License Agreement and instructions
+    * [Contributor License Agreement](./Legal.md#contributor-license-agreement) and instructions
     * AUTHORS (either in plain text or Markdown format)
     * Code of Conduct
-1. Apply the Tagged, Inc. copyright to all files.
-1. Apply the Apache v2.0 License to all code.
-1. Apply the CC-BY-SA License to all documentation.
-1. Make the repository public in the Tagged organization on [GitHub](https://github.com/tagged).
+1. Apply the [Tagged, Inc. copyright](./Legal.md#applying-the-licenses--copyright-to-your-project) to all files.
+1. Apply the [Apache v2.0 License](./Legal.md#applying-the-licenses--copyright-to-your-project) to all code.
+1. Apply the [CC-BY-SA License](./Legal.md#applying-the-licenses--copyright-to-your-project) to all documentation.
+1. Make the repository public in the [Tagged organization on GitHub](https://github.com/tagged).
 1. Confirm that any internal processes (continuous integration, etc.) now point to the new public repository.
 1. End of life the internal (private) repository.
 1. Notify Marcom that a new project has been released to the world!
