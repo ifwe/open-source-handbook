@@ -95,7 +95,7 @@ To confirm that you are in compliance with the licensing of external code used i
 1. Create a list of every piece of external code on which your project relies. It can be an imported library, a piece of cut/pasted code, a published algorithm, or any such resource.
 1. For each item on the list, locate the license. If there is no license published, try to contact the author to determine the licensing for the work.
 1. Review each license to confirm that your project is in compliance with its strictures. If your project violates the license in any way, these violations **must** be corrected or removed prior to open sourcing the project. If you have any questions about whether your project conforms to the license obligations, immediately contact the Tagged legal team. Don't try to make a "best guess" about legal matters. You leave that to the Legal Team and they'll leave programming to you.
-1. Once you've confirmed that your project is in compliance with the licensing restrictions of an external resource, please be a good citizen and acknowledge this resource by listing it in the NOTICES file (see below).
+1. Once you've confirmed that your project is in compliance with the licensing restrictions of an external resource, please be a good citizen and acknowledge this resource by listing it in the [NOTICES](#the-notices-file) file.
 
 Depending upon the number of external resources on which your project relies, it may take a fair chunk of time to perform this compliance check. Please don't give in to the urge to cut corners here. Just as you'd like people to use your project as you've set forth in your license, please afford others this same courtesy.
 
@@ -116,9 +116,11 @@ These searches should be performed not only on the code but also on the commit h
 
 ## The NOTICES File
 
-The `NOTICES` file is a tricky thing to describe, but may be summarized as "Credit where credit is due."
+The `NOTICES` file is a tricky thing to describe, but may be summarized as "Credit where credit is due." This is where you should mention not only the origin of your project (Tagged), but also potentially list the copyright and license information for the dependencies of your project.
 
+The dependencies listed in the NOTICES file must only be those which you are distributing with your project. If you're not distributing a dependency (for instance, if your project requires it but the user is instructed to install it from elsewhere), then the dependency **should not** be listed in the NOTICES file.
 
+The [Apache Software Foundation](http://apache.org) has a good [example NOTICES](http://www.apache.org/licenses/example-NOTICE.txt) which shows how you might use this file.
 
 ## Terms of Service
 
