@@ -8,8 +8,6 @@ While this document is written for Tagged team members, it is licensed under the
 
 * Introduction
 * TL;DR
-   * Small Project
-   * Large Project
 * Legal Stuff
    * Copyright
    * License
@@ -84,40 +82,10 @@ Keep in mind: The items on the lists below are **not** optional. Please make sur
 
 To make it easier to open source your project, we've collected some template files together in the [Starter Box](./starter_box) directory. You can simply copy the necessary files/text from there.
 
-### Small Project
-
-Small projects are those which are, well, small. Just a little library. Just a slight script. Just a teensy tool. Each is small in size but potentially large in impact, since each could save hours of frustration for its users.
-
-Small projects also qualify as such because they probably won't develop a large user base or community around them. Because of that, it's possible to release them without having to jump through some of the legal hoops necessary for a larger project. However, if you wish to follow the large project steps instead there's no problem with that.
-
-Here are the steps for open sourcing your small project:
+Here are the steps for open sourcing your project:
 
 1. Get approval from your team lead or manager.
-1. Review the project to make sure it's not divulging any sensitive information (passwords, etc.).
-1. Review the commit history for the project to make sure it's not divulging any sensitive information.
-1. If the project uses any external libraries or code, review their licenses to confirm that they are compatible with the Apache v2.0 License.
-1. Make sure the project contains the following files:
-    * README (in either plain text or Markdown format)
-    * LICENSE (containing both the Apache v2.0 and the CC-BY-SA licenses)
-    * CONTRIBUTING (in either plain text or Markdown format)
-1. Apply the Tagged, Inc. copyright to all files.
-1. Apply the Apache v2.0 License to all code.
-1. Apply the CC-BY-SA License to all documentation.
-1. Make the repository public in the Tagged organization on [GitHub](https://github.com/tagged).
-1. Confirm that any internal processes (continuous integration, etc.) now point to the new public repository.
-1. End of life the internal (private) repository.
-1. Notify Marcom that a new project has been released to the world!
-
-### Large Project
-
-Large projects are those which we expect will gain wide adoption in the industry and/or earn a following from a robust community of users and contributors.
-
-Because of those contributors, it's necessary to perform a few extra steps up front in order to make things easier later on.
-
-Here are the steps for open sourcing your large project:
-
-1. Get approval from your team lead or manager.
-1. Notify Marcom that a big new project will be open sourced shortly.
+1. Notify Marcom that a new project will be open sourced shortly.
 1. Review the project to make sure it's not divulging any sensitive information (passwords, etc.).
 1. Review the commit history for the project to make sure it's not divulging any sensitive information.
 1. If the project uses any external libraries or code, review their licenses to confirm that they are compatible with the Apache v2.0 License.
