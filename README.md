@@ -13,7 +13,7 @@ While this document is written for Tagged team members, it is licensed under the
    * [License](./Legal.md#license)
    * [Applying the License & Copyright](./Legal.md#applying-the-licenses--copyright-to-your-project)
    * [Contributor License Agreement](./Legal.md#contributor-license-agreement)
-   * [Sanitizing the project](./Legal.md#sanititizing-the-project)
+   * [Sanitizing your project](./Legal.md#sanititizing-your-project)
    * [The NOTICES file](./Legal.md#the-notices-file)
    * [Terms of Service](./Legal.md#terms-of-service)
    * [Privacy Statement](./Legal.md#privacy-statement)

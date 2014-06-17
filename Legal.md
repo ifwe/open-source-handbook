@@ -5,7 +5,7 @@
 * [Introduction](#introduction)
 * [Copyright](#copyright)
 * [Licenses](#licenses)
-* [Applying the Licenses & Copyright](#applying-the-licenses-copyright-to-your-project)
+* [Applying the Licenses & Copyright](#applying-the-licenses--copyright-to-your-project)
 * [Contributor License Agreement](#contributor-license-agreement)
 * [Sanitizing your project](#sanitizing-your-project)
 * [The NOTICES file](#the-notices-file)
