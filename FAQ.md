@@ -10,6 +10,8 @@
 
 ## Why do code and documentation have different licenses?
 
+## What can I change in the Starter Box?
+
 -----
 
 FAQ.md: Copyright 2014 Tagged, Inc.
