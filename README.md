@@ -18,17 +18,21 @@ While this document is written for Tagged team members, it is licensed under the
    * [Terms of Service](./Legal.md#terms-of-service)
    * [Privacy Policy](./Legal.md#privacy-policy)
 * Contributing
-   * How to Contribute (aka The CONTRIBUTING file)
+   * How to Contribute (aka the CONTRIBUTING file)
    * Submitting code
       * Coding conventions
    * Submitting documentation
       * Style guide
+   * Accepting patches and pull requests
    * The AUTHORS file
 * Community
    * Code of Conduct
    * Users
    * Contributors
-   * Social Networking
+   * Communication
+     * IRC
+     * Mailing Lists
+     * Social Networks
 * Documentation
    * The README file
    * User docs
