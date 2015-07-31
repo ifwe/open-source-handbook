@@ -1,6 +1,6 @@
 # FAQ
 
-## Why does Tagged open source its projects?
+## Why does if(we) open source its projects?
 
 ## What sorts of projects should be open sourced?
 
@@ -14,7 +14,7 @@
 
 -----
 
-FAQ.md: Copyright 2014 Tagged, Inc.
+FAQ.md: Copyright 2015 Ifwe Inc.
 
 FAQ.md is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 
