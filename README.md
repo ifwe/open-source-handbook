@@ -88,9 +88,10 @@ To make it easier to open source your project, we've collected some template fil
 
 Here are the steps for open sourcing your project:
 
-1. Get approval from your team lead or manager.
-1. Notify Marcom that a new project will be open sourced shortly.
-1. [Review the project](./Legal.md#cleaning-up) to make sure it's not divulging any sensitive information (passwords, etc.).
+1. Get approval from your team lead or manager.  Including the time required for appropriate documentation, any extra work required to open source.
+1. Manager must get final approval from Gene (VP of Eng). 
+1. Notify Marcom (marcom@ifwe.co) and Legal (legal@ifwe.co) of the new project to be open sourced shortly.
+1. Review and final approval from Gene of the content to be open sourced.  [Review the project](./Legal.md#cleaning-up) to make sure it's not divulging any sensitive information (passwords, etc.).
 1. [Review the commit history](./Legal.md#cleaning-up) for the project to make sure it's not divulging any sensitive information.
 1. If the project uses any external libraries or code, [review their licenses](./Legal.md#complying-with-others-copyright-and-licensing) to confirm that they are compatible with the Apache v2.0 License.
 1. Make sure the project contains the following files:
