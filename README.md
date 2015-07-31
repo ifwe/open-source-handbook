@@ -91,10 +91,11 @@ Here are the steps for open sourcing your project:
 1. Get approval from your team lead or manager.  Including the time required for appropriate documentation, any extra work required to open source.
 1. Manager must get final approval from Gene (VP of Eng). 
 1. Notify Marcom (marcom@ifwe.co) and Legal (legal@ifwe.co) of the new project to be open sourced shortly.
-1. Review and final approval from Gene of the content to be open sourced.  [Review the project](./Legal.md#cleaning-up) to make sure it's not divulging any sensitive information (passwords, etc.).
-1. [Review the commit history](./Legal.md#cleaning-up) for the project to make sure it's not divulging any sensitive information.
-1. If the project uses any external libraries or code, [review their licenses](./Legal.md#complying-with-others-copyright-and-licensing) to confirm that they are compatible with the Apache v2.0 License.
-1. Make sure the project contains the following files:
+1. Review and final approval from Gene of the content to be open sourced.  
+    *Review the final project to make sure it is not divulging any sensitive information or valuable intellectual property
+    *Review commit history to make sure it is not divulging sensitive information
+    *Review licenses to confirm that they are compatible with Apache v2.0 License (if the project uses external libraries or codes).
+1. Prepare required documentation:
     * README (in either plain text or Markdown format)
     * [LICENSE](./Legal.md#license) (containing both the Apache v2.0 and the CC-BY-SA licenses)
     * [NOTICES](./Legal.md#the-notices-file)
@@ -108,7 +109,7 @@ Here are the steps for open sourcing your project:
 1. Make the repository public in the [if(we) organization on GitHub](https://github.com/ifwe).
 1. Confirm that any internal processes (continuous integration, etc.) now point to the new public repository.
 1. End of life the internal (private) repository.
-1. Notify Marcom that a new project has been released to the world!
+1.Notify Marcom and Legal that a new project has been released to the world!
 
 -----
 
