@@ -1,6 +1,6 @@
 # The if(we) Open Source Handbook
 
-This is the handbook for how to open source your projects at [if(we)](www.ifwe.co).
+This is the handbook for how to open source your projects at [if(we)](http://www.ifwe.co).
 
 While this document is written for if(we) team members, it is licensed under the [CC-BY-SA](http://creativecommons.org/licenses/by-sa/4.0) license and is free for use by all who wish to release their projects as open source.
 
