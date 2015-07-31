@@ -16,7 +16,7 @@
 
 Some of the most confusing, complex, and intimidating steps of open sourcing a project have to do with the legal issues surrounding it. Not only is there an abundance of licenses from which to choose, there's also the matter of applying the license once you pick it. And let's not forget copyright. Without copyright over the work, a license doesn't really do much good. So how do you handle not only the initial copyright but also that of any contributors?
 
-Thankfully, the Tagged legal team has already sorted out the answers to these very sticky questions. This makes open sourcing your project a simple matter of following some steps rather than wrestling with legal theories.
+Thankfully, the if(we) legal team has already sorted out the answers to these very sticky questions. This makes open sourcing your project a simple matter of following some steps rather than wrestling with legal theories.
 
 ## Copyright
 
@@ -26,9 +26,9 @@ According to the [U.S. Copyright Office](http://www.copyright.gov/help/faq/defin
 
 Restated and Over-Simplified: The copyright belongs to the creator of a work. It denotes which individual or organization controls or owns the intellectual property of the work.
 
-The copyright for all code, documentation, illustrations, or other works associated with your project and developed by you for Tagged belongs to Tagged. This allows Tagged, if necessary, to protect its intellectual property interests. It also allows Tagged to perform necessary administrative operations on the works. For instance, if Tagged were to create a foundation for supporting and administering all of the open source projects developed and released by Tagged, it would be able to reassign and relinquish control of the copyright to the newly formed foundation. It would not be able to do this if it did not clearly hold the copyright for these projects (you cannot give away what you do not have).
+The copyright for all code, documentation, illustrations, or other works associated with your project and developed by you for if(we) belongs to if(we). This allows if(we), if necessary, to protect its intellectual property interests. It also allows if(we) to perform necessary administrative operations on the works. For instance, if if(we) were to create a foundation for supporting and administering all of the open source projects developed and released by if(we), it would be able to reassign and relinquish control of the copyright to the newly formed foundation. It would not be able to do this if it did not clearly hold the copyright for these projects (you cannot give away what you do not have).
 
-Therefore it is very important that the copyright for each file and work in a project be clearly, explicitly, and properly declared as belonging to Tagged.
+Therefore it is very important that the copyright for each file and work in a project be clearly, explicitly, and properly declared as belonging to if(we).
 
 ## Licenses
 
@@ -36,13 +36,13 @@ A license grants the right for an individual or organization to use (and–in th
 
 Therefore both are necessary when opening your source code or work. A license without a clear copyright is a no-op, since the license would be granting the rights of use based on something which is not defined. Think of it as the legal equivalent of a [NullPointerException](http://docs.oracle.com/javase/7/docs/api/java/lang/NullPointerException.html).
 
-Literally [dozens of open source licenses exist](http://opensource.org/licenses). They all have their advantages and disadvantages, based upon your needs. Thankfully, you don't have to do the work of reviewing every license and weighing them against the needs of the organization. The Tagged legal team has already done this for you.
+Literally [dozens of open source licenses exist](http://opensource.org/licenses). They all have their advantages and disadvantages, based upon your needs. Thankfully, you don't have to do the work of reviewing every license and weighing them against the needs of the organization. The if(we) legal team has already done this for you.
 
-All code open sourced by Tagged and its employees **must** be released under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html). This license has been chosen not only because of its permissive and community-focused conditions of use, but also because of its thoughtful intellectual property protections.
+All code open sourced by if(we) and its employees **must** be released under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html). This license has been chosen not only because of its permissive and community-focused conditions of use, but also because of its thoughtful intellectual property protections.
 
-All documentation, images, and other works open sourced by Tagged and its employees **must** be released under the [Creative Commons Attribution Share Alike License, Version 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
+All documentation, images, and other works open sourced by if(we) and its employees **must** be released under the [Creative Commons Attribution Share Alike License, Version 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
 
-Please **do not** open source your project under different licenses. The Tagged legal team has approved the Apache v2.0 and CC-BY-SA 4.0 licenses for use and no others.
+Please **do not** open source your project under different licenses. The if(we) legal team has approved the Apache v2.0 and CC-BY-SA 4.0 licenses for use and no others.
 
 ## Applying the Licenses & Copyright to your project
 
@@ -58,13 +58,13 @@ Voila! You have now applied the copyright and license statements to your project
 
 ## Contributor License Agreement
 
-While the copyright for all work performed by Tagged employees on behalf of Tagged belongs to Tagged itself, the copyright for all work performed by external contributors belongs to each contributor. This is well and proper and the right way of things, but it can cause some administrative headaches.
+While the copyright for all work performed by if(we) employees on behalf of if(we) belongs to if(we) itself, the copyright for all work performed by external contributors belongs to each contributor. This is well and proper and the right way of things, but it can cause some administrative headaches.
 
-For instance, what if Tagged actually _were_ to create a non-profit foundation for supporting and administering all of its open source projects? In order to reassign these projects to the purview of the foundation, Tagged would need to receive approval from each and every copyright holder for each and every project. As each contributor holds copyright over their own work, this could mean dozens or even hundreds of copyright holders…for **each** project. Considering how often people move around, change email addresses, or otherwise go AWOL, tracking them all down in order to get their approval to transfer the project to the foundation would be a logistical and administrative nightmare.
+For instance, what if if(we) actually _were_ to create a non-profit foundation for supporting and administering all of its open source projects? In order to reassign these projects to the purview of the foundation, if(we) would need to receive approval from each and every copyright holder for each and every project. As each contributor holds copyright over their own work, this could mean dozens or even hundreds of copyright holders…for **each** project. Considering how often people move around, change email addresses, or otherwise go AWOL, tracking them all down in order to get their approval to transfer the project to the foundation would be a logistical and administrative nightmare.
 
 Enter the [Contributor License Agreement](./starter_box/CLA.md) (aka the CLA).
 
-A CLA is just a specialized form of license. Just as the Apache License grants the right to use copyrighted software, a CLA is a license which grants the right for an individual or organization to use the work of the contributor. The contributor retains copyright over the work, but Tagged is allowed to distribute and administer the work as needed.
+A CLA is just a specialized form of license. Just as the Apache License grants the right to use copyrighted software, a CLA is a license which grants the right for an individual or organization to use the work of the contributor. The contributor retains copyright over the work, but if(we) is allowed to distribute and administer the work as needed.
 
 **NOTA BENE**
 > Because of the potential legal and administrative snags involved, it is **absolutely vital** that all external contributors to your project have a signed CLA on file **before** you merge their contribution into the project.
@@ -77,14 +77,14 @@ The process itself is quite simple:
 
 1. Contributor sends in a pull request.
 1. You ask the contributor to send in a [signed CLA](./starter_box/CLA_Process.md).
-1. Tagged Legal files away the signed CLA then lets you know it's been received.
+1. if(we) Legal files away the signed CLA then lets you know it's been received.
 1. You merge the pull request (after reviewing and approving it, naturally).
 
-However, this assumes that you have provided your contributors with the CLA steps and documents. That's why we've added them to the [Starter Box](./starter_box). Just copy these `CLA*` files to your project and you'll be ready to start accepting contributions from people outside of Tagged.
+However, this assumes that you have provided your contributors with the CLA steps and documents. That's why we've added them to the [Starter Box](./starter_box). Just copy these `CLA*` files to your project and you'll be ready to start accepting contributions from people outside of if(we).
 
 ## Sanitizing your project
 
-Covering your legal bases doesn't end with adding license and copyright statements to your project. You also have to make sure not only that you comply with the copyright and license statements in code on which your code depends, but also that your code doesn't include anything offensive or potentially damaging to Tagged.
+Covering your legal bases doesn't end with adding license and copyright statements to your project. You also have to make sure not only that you comply with the copyright and license statements in code on which your code depends, but also that your code doesn't include anything offensive or potentially damaging to if(we).
 
 ### Complying with Others' Copyright and Licensing
 
@@ -94,7 +94,7 @@ To confirm that you are in compliance with the licensing of external code used i
 
 1. Create a list of every piece of external code on which your project relies. It can be an imported library, a piece of cut/pasted code, a published algorithm, or any such resource.
 1. For each item on the list, locate the license. If there is no license published, try to contact the author to determine the licensing for the work.
-1. Review each license to confirm that your project is in compliance with its strictures. If your project violates the license in any way, these violations **must** be corrected or removed prior to open sourcing the project. If you have any questions about whether your project conforms to the license obligations, immediately contact the Tagged legal team. Don't try to make a "best guess" about legal matters. You leave that to the Legal Team and they'll leave programming to you.
+1. Review each license to confirm that your project is in compliance with its strictures. If your project violates the license in any way, these violations **must** be corrected or removed prior to open sourcing the project. If you have any questions about whether your project conforms to the license obligations, immediately contact the if(we) legal team. Don't try to make a "best guess" about legal matters. You leave that to the Legal Team and they'll leave programming to you.
 1. Once you've confirmed that your project is in compliance with the licensing restrictions of an external resource, please be a good citizen and acknowledge this resource by listing it in the [NOTICES](#the-notices-file) file.
 
 Depending upon the number of external resources on which your project relies, it may take a fair chunk of time to perform this compliance check. Please don't give in to the urge to cut corners here. Just as you'd like people to use your project as you've set forth in your license, please afford others this same courtesy.
@@ -116,7 +116,7 @@ These searches should be performed not only on the code but also on the commit h
 
 ## The NOTICES File
 
-The `NOTICES` file is a tricky thing to describe, but may be summarized as "Credit where credit is due." This is where you should mention not only the origin of your project (Tagged), but also potentially list the copyright and license information for the dependencies of your project.
+The `NOTICES` file is a tricky thing to describe, but may be summarized as "Credit where credit is due." This is where you should mention not only the origin of your project (if(we)), but also potentially list the copyright and license information for the dependencies of your project.
 
 The dependencies listed in the NOTICES file must only be those which you are distributing with your project. If you're not distributing a dependency (for instance, if your project requires it but the user is instructed to install it from elsewhere), then the dependency **should not** be listed in the NOTICES file.
 
@@ -124,7 +124,7 @@ The [Apache Software Foundation](http://apache.org) has a good [example NOTICES]
 
 ## Terms of Service
 
-If your project is large enough to warrant its own website, you'll need it to link to a Terms of Service document. This doc sets forth the rights and responsibilities of both Tagged and the users with respect to the website.
+If your project is large enough to warrant its own website, you'll need it to link to a Terms of Service document. This doc sets forth the rights and responsibilities of both if(we) and the users with respect to the website.
 
 To add a Terms of Service to your project website, simply copy it to your repository from the [Starter Box](./starter_box/TOS.md) then link to that copy from your website.
 
@@ -132,7 +132,7 @@ If your project does not have its own website (it merely has a GitHub repository
 
 ## Privacy Policy
 
-If your project is large enough to warrant its own website, you'll need it to link to a Privacy Policy document. This doc sets forth what information Tagged collects in the day-to-day operation of the website.
+If your project is large enough to warrant its own website, you'll need it to link to a Privacy Policy document. This doc sets forth what information if(we) collects in the day-to-day operation of the website.
 
 To add a Privacy Policy to your project website, simply copy it to your repository from the [Starter Box](./starter_box/Privacy_Policy.md) then link to that copy from your website.
 
@@ -140,7 +140,7 @@ If your project does not have its own website (it merely has a GitHub repository
 
 -----
 
-Legal.md: Copyright 2014 Tagged, Inc.
+Legal.md: Copyright 2015 Ifwe Inc.
 
 Legal.md is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 
