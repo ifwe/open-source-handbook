@@ -1,7 +1,7 @@
 
 -----
 
-[FILENAME]: Copyright 2014 Tagged, Inc.
+[FILENAME]: Copyright 2015 Ifwe Inc.
 
 [FILENAME] is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 
