@@ -1,8 +1,8 @@
-# The Tagged Open Source Handbook
+# The if(we) Open Source Handbook
 
-This is the handbook for how to open source your projects at [Tagged](http://tagged.com).
+This is the handbook for how to open source your projects at [if(we)](www.ifwe.co).
 
-While this document is written for Tagged team members, it is licensed under the [CC-BY-SA](http://creativecommons.org/licenses/by-sa/4.0) license and is free for use by all who wish to release their projects as open source.
+While this document is written for if(we) team members, it is licensed under the [CC-BY-SA](http://creativecommons.org/licenses/by-sa/4.0) license and is free for use by all who wish to release their projects as open source.
 
 ## Table of Contents
 
@@ -59,18 +59,18 @@ While this document is written for Tagged team members, it is licensed under the
 
 ## Introduction
 
-[Tagged](http://tagged.com) is dedicated to [open
+[if(we)](www.ifwe.co) is dedicated to [open
 source](http://opensource.org/osd). We believe that we are stronger together than separately and that free and open software and other resources (such as this document) are a rising tide which lifts all boats.
 
-To that end, Tagged tries to open source as many of its internally-developed resources as it can.
+To that end, if(we) tries to open source as many of its internally-developed resources as it can.
 
-However, open sourcing your project is much more than simply dropping your code into a [GitHub repository](http://github.com/tagged) and walking away. There are a lot of legal, procedural, and usability hoops to jump through to open source a project properly. We realize that it can be a daunting task for those who're not familiar with the process. Don't worry: We're here to help.
+However, open sourcing your project is much more than simply dropping your code into a [GitHub repository](http://github.com/ifwe) and walking away. There are a lot of legal, procedural, and usability hoops to jump through to open source a project properly. We realize that it can be a daunting task for those who're not familiar with the process. Don't worry: We're here to help.
 
 This document will clarify the process and show you exactly what you need to do not only to release your project as open source, but also to maintain it and its community afterward.
 
 **NOTA BENE**:
 
-> All Tagged projects should use this process. It is standardized in order to make it easier for all current and future team members and to eliminate guesswork. If you need to diverge from the guidelines set forth in this document, please consult with your team lead, manager, and other stakeholders before doing so.
+> All if(we) projects should use this process. It is standardized in order to make it easier for all current and future team members and to eliminate guesswork. If you need to diverge from the guidelines set forth in this document, please consult with your team lead, manager, and other stakeholders before doing so.
 
 ## TL;DR
 
@@ -101,17 +101,17 @@ Here are the steps for open sourcing your project:
     * [Contributor License Agreement](./Legal.md#contributor-license-agreement) and instructions
     * AUTHORS (either in plain text or Markdown format)
     * Code of Conduct
-1. Apply the [Tagged, Inc. copyright](./Legal.md#applying-the-licenses--copyright-to-your-project) to all files.
+1. Apply the [Ifwe Inc. copyright](./Legal.md#applying-the-licenses--copyright-to-your-project) to all files.
 1. Apply the [Apache v2.0 License](./Legal.md#applying-the-licenses--copyright-to-your-project) to all code.
 1. Apply the [CC-BY-SA License](./Legal.md#applying-the-licenses--copyright-to-your-project) to all documentation.
-1. Make the repository public in the [Tagged organization on GitHub](https://github.com/tagged).
+1. Make the repository public in the [if(we) organization on GitHub](https://github.com/ifwe).
 1. Confirm that any internal processes (continuous integration, etc.) now point to the new public repository.
 1. End of life the internal (private) repository.
 1. Notify Marcom that a new project has been released to the world!
 
 -----
 
-README.md: Copyright 2014 Tagged, Inc.
+README.md: Copyright 2015 Ifwe Inc. 
 
 README.md is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 
