@@ -1,4 +1,4 @@
-# Tagged, Inc: Privacy Policy
+# Ifwe, Inc: Privacy Policy
 
 Information about your use of this website is collected using server access logs and a tracking cookie. The collected information consists of the following:
 
@@ -14,11 +14,11 @@ We use the gathered information to help us make our site more useful to visitors
 
 By using this website, you consent to the collection of this data in the manner and for the purpose described above.
 
-Additional Tagged, Inc. project services are supplied by external providers ([GitHub](http://github.com), etc.). The privacy of data provided to those services are handled by each provider. Please check the provider website for more information.
+Additional Ifwe, Inc. project services are supplied by external providers ([GitHub](http://github.com), etc.). The privacy of data provided to those services are handled by each provider. Please check the provider website for more information.
 
 -----
 
-Privacy_Policy.md: Copyright 2014 Tagged, Inc.
+Privacy_Policy.md: Copyright 2015 Ifwe Inc.
 
 Privacy_Policy.md is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 

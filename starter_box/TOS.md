@@ -2,13 +2,13 @@
 
 ## INTRODUCTION.
 
-This Site and its contents are made available by Tagged, Inc. ("Tagged"). These Terms of Use apply to everyone who Uses this Site (as defined below), or who participates in any projects hosted on this Site. PLEASE READ THESE TERMS CAREFULLY FIRST. BY USING THE SITE OR PARTICIPATING IN ANY PROJECTS, YOU ACKNOWLEDGE THAT YOU HAVE READ THE TERMS AND AGREE TO THEM. IF YOU DO NOT WISH TO BE BOUND BY THE TERMS, THEN DO NOT USE THE SITE OR PARTICIPATE IN ANY PROJECTS HOSTED ON THIS SITE.
+This Site and its contents are made available by Ifwe, Inc. ("Ifwe"). These Terms of Use apply to everyone who Uses this Site (as defined below), or who participates in any projects hosted on this Site. PLEASE READ THESE TERMS CAREFULLY FIRST. BY USING THE SITE OR PARTICIPATING IN ANY PROJECTS, YOU ACKNOWLEDGE THAT YOU HAVE READ THE TERMS AND AGREE TO THEM. IF YOU DO NOT WISH TO BE BOUND BY THE TERMS, THEN DO NOT USE THE SITE OR PARTICIPATE IN ANY PROJECTS HOSTED ON THIS SITE.
 
 ## DEFINITIONS.
 
 As used here:
 
-1. "Host" means Tagged, Inc.
+1. "Host" means Ifwe, Inc.
 
 1. "Materials" means source code, code samples, object code, technical materials, documentation , discussion thread postings, weblogs, wikis, data, and any other content, information or technology available on the Site.
 
@@ -76,11 +76,11 @@ With respect to a Project that is designated as "Private," the preceding license
 
 ### Other Licenses/Terms.
 
-The Projects are governed by their own terms regarding Submissions and require You to sign agreements (such as a [Tagged Contributor License Agreement](https://github.com/tagged/tagged-legal/blob/master/cla/CLA_Process.md) licensing Your rights in Your Submissions. In all such cases, and to the extent there is a conflict, the terms of those Projects and agreements take precedence over these Terms.
+The Projects are governed by their own terms regarding Submissions and require You to sign agreements (such as a [Ifwe Contributor License Agreement](https://github.com/tagged/tagged-legal/blob/master/cla/CLA_Process.md) licensing Your rights in Your Submissions. In all such cases, and to the extent there is a conflict, the terms of those Projects and agreements take precedence over these Terms.
 
 ### Privacy.
 
-You consent to the collection, processing and storage by the Host of any personal information provided by You in accordance with the terms of [Tagged Privacy Policy](https://github.com/tagged/tagged-legal/blob/master/Privacy_Policy.md). You agree to comply with all applicable laws and regulations, and the terms of Tagged Privacy Policy, with respect to any use by You of any personal information in connection with this Site.
+You consent to the collection, processing and storage by the Host of any personal information provided by You in accordance with the terms of [Ifwe Privacy Policy](https://github.com/tagged/tagged-legal/blob/master/Privacy_Policy.md). You agree to comply with all applicable laws and regulations, and the terms of Ifwe Privacy Policy, with respect to any use by You of any personal information in connection with this Site.
 
 ## MISCELLANEOUS.
 
@@ -114,7 +114,7 @@ You agree that these Terms of Use are the complete agreement for the Site, Mater
 
 -----
 
-TOS.md: Copyright 2014 Tagged, Inc.
+TOS.md: Copyright 2015 Ifwe Inc.
 
 TOS.md is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 
