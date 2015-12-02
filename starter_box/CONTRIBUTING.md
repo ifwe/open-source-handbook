@@ -5,7 +5,7 @@ Thank you for your interest in contributing to a Ifwe, Inc. ("Ifwe") open source
 * Please review any [Coding Conventions](./coding_conventions.md) for this project.
 * Please review the [Ifwe Pull Request Process](./pull_requests.md).
 * Read and complete the [Ifwe Contributor License Agreement](./CLA.md). Learn more about the agreement in its [Appendix](./CLA-appendix.md).
-* When complete, email a PDF of the signed agreement to [legal@tagged.com](mailto:legal@tagged.com).
+* When complete, email a PDF of the signed agreement to [legal@ifwe.co](mailto:legal@ifwe.co).
 * Once you have received a confirmation that your signed CLA was received, contribute your code, documentation, or any other materials to Ifwe.
 
 Thank you again for your help!

@@ -1,6 +1,6 @@
                              Ifwe, Inc.
                  Contributor License Agreement, v1.0
-                        http://tagged.com
+                        http://ifwe.co
 
 Thank you for your interest in contributing to Ifwe, Inc. ("Ifwe").
 Ifwe is very interested in receiving Your Contribution (defined

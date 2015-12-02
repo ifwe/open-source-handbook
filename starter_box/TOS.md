@@ -42,7 +42,7 @@ You understand that Materials may contain the opinions of others and You do not 
 
 ### Copyright Infringement.
 
-If You believe that any Materials infringe Your copyrights, please send an email detailing your complaint to [legal@tagged.com](mailto:legal@tagged.com).
+If You believe that any Materials infringe Your copyrights, please send an email detailing your complaint to [legal@ifwe.co](mailto:legal@ifwe.co).
 
 ### Management of Materials and Access.
 
@@ -76,11 +76,11 @@ With respect to a Project that is designated as "Private," the preceding license
 
 ### Other Licenses/Terms.
 
-The Projects are governed by their own terms regarding Submissions and require You to sign agreements (such as a [Ifwe Contributor License Agreement](https://github.com/tagged/tagged-legal/blob/master/cla/CLA_Process.md) licensing Your rights in Your Submissions. In all such cases, and to the extent there is a conflict, the terms of those Projects and agreements take precedence over these Terms.
+The Projects are governed by their own terms regarding Submissions and require You to sign agreements (such as a [Ifwe Contributor License Agreement](https://github.com/ifwe/open-source-handbook/blob/master/starter_box/CLA_Process.md) licensing Your rights in Your Submissions. In all such cases, and to the extent there is a conflict, the terms of those Projects and agreements take precedence over these Terms.
 
 ### Privacy.
 
-You consent to the collection, processing and storage by the Host of any personal information provided by You in accordance with the terms of [Ifwe Privacy Policy](https://github.com/tagged/tagged-legal/blob/master/Privacy_Policy.md). You agree to comply with all applicable laws and regulations, and the terms of Ifwe Privacy Policy, with respect to any use by You of any personal information in connection with this Site.
+You consent to the collection, processing and storage by the Host of any personal information provided by You in accordance with the terms of [Ifwe Privacy Policy](https://github.com/ifwe/open-source-handbook/blob/master/starter_box/Privacy_Policy.md). You agree to comply with all applicable laws and regulations, and the terms of Ifwe Privacy Policy, with respect to any use by You of any personal information in connection with this Site.
 
 ## MISCELLANEOUS.
 

@@ -1,6 +1,6 @@
                              Ifwe, Inc.
          Appendix to the Contributor License Agreement, v1.0
-                        http://tagged.com
+                        http://ifwe.co
 
 The Ifwe, Inc. ("Ifwe") Contributor License Agreement ("CLA") is based upon that of [Numenta](http://numenta.org/licenses/cl/numenta-cl.txt).
 
