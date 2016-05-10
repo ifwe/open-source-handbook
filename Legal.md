@@ -6,7 +6,7 @@
 * [Copyright](#copyright)
 * [Licenses](#licenses)
 * [Applying the Licenses & Copyright](#applying-the-licenses--copyright-to-your-project)
-* [Contributor License Agreement](#contributor-license-agreement)
+* [Developer's Certificate Of Origin](#developers-certificate-of-origin)
 * [Sanitizing your project](#sanitizing-your-project)
 * [The NOTICES file](#the-notices-file)
 * [Terms of Service](#terms-of-service)
@@ -56,31 +56,27 @@ There are only three steps needed to apply copyright and license properly in you
 
 Voila! You have now applied the copyright and license statements to your project.
 
-## Contributor License Agreement
+## Developer's Certificate Of Origin
 
 While the copyright for all work performed by if(we) employees on behalf of if(we) belongs to if(we) itself, the copyright for all work performed by external contributors belongs to each contributor. This is well and proper and the right way of things, but it can cause some administrative headaches.
 
 For instance, what if if(we) actually _were_ to create a non-profit foundation for supporting and administering all of its open source projects? In order to reassign these projects to the purview of the foundation, if(we) would need to receive approval from each and every copyright holder for each and every project. As each contributor holds copyright over their own work, this could mean dozens or even hundreds of copyright holders…for **each** project. Considering how often people move around, change email addresses, or otherwise go AWOL, tracking them all down in order to get their approval to transfer the project to the foundation would be a logistical and administrative nightmare.
 
-Enter the [Contributor License Agreement](./starter_box/CLA.md) (aka the CLA).
+Enter the [Developer's Certificate Of Origin](./starter_box/DCOO.md) (aka the DCOO).
 
-A CLA is just a specialized form of license. Just as the Apache License grants the right to use copyrighted software, a CLA is a license which grants the right for an individual or organization to use the work of the contributor. The contributor retains copyright over the work, but if(we) is allowed to distribute and administer the work as needed.
+The DCOO ensures that any contribution made to the project was created by the contributor and that it is not under any other copyright.  It also ensures that the contributor must certify that they are allowed to contribute the code and that the code is under the appropriate open source license.
 
 **NOTA BENE**
-> Because of the potential legal and administrative snags involved, it is **absolutely vital** that all external contributors to your project have a signed CLA on file **before** you merge their contribution into the project.
+> Because of the potential legal and administrative snags involved, it is **absolutely vital** that there is a pre-receive hook to ensure the Signed-Off-By is in place for any external contribution into the project.
 
-So, how do you do that?
+The process for the above is straightforward:
 
-### The Contributor License Agreement Process
-
-The process itself is quite simple:
-
+1. Contributor creates commit(s) using 'git commit --signoff' (or '-s' for short).
 1. Contributor sends in a pull request.
-1. You ask the contributor to send in a [signed CLA](./starter_box/CLA_Process.md).
-1. if(we) Legal files away the signed CLA then lets you know it's been received.
-1. You merge the pull request (after reviewing and approving it, naturally).
+1. You review and approve the pull request, ensuring the commit(s) contain the 'Signed-off-by' in the logs.
+1. You merge the pull request.
 
-However, this assumes that you have provided your contributors with the CLA steps and documents. That's why we've added them to the [Starter Box](./starter_box). Just copy these `CLA*` files to your project and you'll be ready to start accepting contributions from people outside of if(we).
+However, this assumes that you have provided your contributors with the DCOO information. That's why we've added it to the [Starter Box](./starter_box). Just copy the `DCOO*` files to your project and you'll be ready to start accepting contributions from people outside of if(we).
 
 ## Sanitizing your project
 
@@ -140,7 +136,7 @@ If your project does not have its own website (it merely has a GitHub repository
 
 -----
 
-Legal.md: Copyright 2015 Ifwe Inc.
+Legal.md: Copyright 2016 Ifwe Inc.
 
 Legal.md is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 

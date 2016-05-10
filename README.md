@@ -90,7 +90,7 @@ Here are the steps for open sourcing your project:
 
 1. Get approval from your team lead or manager.  Including the time required for appropriate documentation, any extra work required to open source.
 1. Manager must get final approval from Gene (VP of Eng). 
-1. Notify Marcom (marcom@ifwe.co) and Legal (legal@ifwe.co) of the new project to be open sourced shortly.
+1. Notify Legal (legal@ifwe.co) of the new project to be open sourced shortly.
 1. Review and final approval from Gene of the content to be open sourced.  
     *Review the final project to make sure it is not divulging any sensitive information or valuable intellectual property
     *Review commit history to make sure it is not divulging sensitive information
@@ -100,7 +100,7 @@ Here are the steps for open sourcing your project:
     * [LICENSE](./Legal.md#license) (containing both the Apache v2.0 and the CC-BY-SA licenses)
     * [NOTICES](./Legal.md#the-notices-file)
     * CONTRIBUTING (in either plain text or Markdown format)
-    * [Contributor License Agreement](./Legal.md#contributor-license-agreement) and instructions
+    * [Developer's Certificate Of Origin](./Legal.md#developers-certificate-of-origin) and instructions
     * AUTHORS (either in plain text or Markdown format)
     * Code of Conduct
 1. Apply the [Ifwe Inc. copyright](./Legal.md#applying-the-licenses--copyright-to-your-project) to all files.
@@ -109,11 +109,11 @@ Here are the steps for open sourcing your project:
 1. Make the repository public in the [if(we) organization on GitHub](https://github.com/ifwe).
 1. Confirm that any internal processes (continuous integration, etc.) now point to the new public repository.
 1. End of life the internal (private) repository.
-1.Notify Marcom and Legal that a new project has been released to the world!
+1.Notify Legal that a new project has been released to the world!
 
 -----
 
-README.md: Copyright 2015 Ifwe Inc. 
+README.md: Copyright 2016 Ifwe Inc. 
 
 README.md is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 

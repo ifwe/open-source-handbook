@@ -14,7 +14,7 @@
 
 -----
 
-FAQ.md: Copyright 2015 Ifwe Inc.
+FAQ.md: Copyright 2016 Ifwe Inc.
 
 FAQ.md is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 

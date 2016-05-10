@@ -4,16 +4,13 @@ Thank you for your interest in contributing to a Ifwe, Inc. ("Ifwe") open source
 
 * Please review any [Coding Conventions](./coding_conventions.md) for this project.
 * Please review the [Ifwe Pull Request Process](./pull_requests.md).
-* Read and complete the [Ifwe Contributor License Agreement](./CLA.md). Learn more about the agreement in its [Appendix](./CLA-appendix.md).
-* When complete, email a PDF of the signed agreement to [legal@ifwe.co](mailto:legal@ifwe.co).
-* Once you have received a confirmation that your signed CLA was received, contribute your code, documentation, or any other materials to Ifwe.
 
 Thank you again for your help!
 
 -----
 
-CLA_Process.md: Copyright 2015 Ifwe Inc.
+CONTRIBUTING.md: Copyright 2016 Ifwe Inc.
 
-CLA_Process.md is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+CONTRIBUTING.md is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 
 You should have received a copy of the license along with this work. If not, see <http://creativecommons.org/licenses/by-sa/4.0/>.

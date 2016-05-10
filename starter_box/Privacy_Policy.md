@@ -18,7 +18,7 @@ Additional Ifwe, Inc. project services are supplied by external providers ([GitH
 
 -----
 
-Privacy_Policy.md: Copyright 2015 Ifwe Inc.
+Privacy_Policy.md: Copyright 2016 Ifwe Inc.
 
 Privacy_Policy.md is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 

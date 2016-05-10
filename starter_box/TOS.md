@@ -114,7 +114,7 @@ You agree that these Terms of Use are the complete agreement for the Site, Mater
 
 -----
 
-TOS.md: Copyright 2015 Ifwe Inc.
+TOS.md: Copyright 2016 Ifwe Inc.
 
 TOS.md is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 
