@@ -76,7 +76,7 @@ With respect to a Project that is designated as "Private," the preceding license
 
 ### Other Licenses/Terms.
 
-The Projects are governed by their own terms regarding Submissions and require You to sign agreements (such as a [Ifwe Contributor License Agreement](https://github.com/ifwe/open-source-handbook/blob/master/starter_box/CLA_Process.md) licensing Your rights in Your Submissions. In all such cases, and to the extent there is a conflict, the terms of those Projects and agreements take precedence over these Terms.
+The Projects are governed by their own terms regarding Submissions and require You to sign your Submissions with the [Developer's Certificate of Origin](https://github.com/ifwe/open-source-handbook/blob/master/starter_box/DCOO.md). In all such cases, and to the extent there is a conflict, the terms of those Projects and agreements take precedence over these Terms.
 
 ### Privacy.
 
